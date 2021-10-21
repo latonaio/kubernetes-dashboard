@@ -1,9 +1,9 @@
-# README #
+# kubernetes-dashboard  
+kubernetes-dashboardは、コンテナの稼働状況をダッシュボード上に可視化するマイクロサービスです。  
 
-
-### 前提 ###
+### 前提  
 * マウントされた該当ストレージ領域における任意のディレクトリに、Kubernetesがインストールされていること
-* Kubernetesが起動していること
+* Kubernetesが起動していること  
 
 ### セットアップ ###
 
